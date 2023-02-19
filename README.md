@@ -1,5 +1,9 @@
 # Cypress UI automation test
 
+## Documentation Tugas 5 - Cypress UI automation
+* [Document Test Scenario](https://docs.google.com/spreadsheets/d/1rdmwE-jxXwvEOIX8bBT94YiD1alQjPumwjbYDzRWp8Q/edit?usp=sharing)
+* [Video Record](https://drive.google.com/file/d/15vWGZJZckBasWYLg-CTKn6P4fpQae_-u/view?usp=sharing)
+
 ## How to clone project repository
 1. Create folder from terminal
 ```
