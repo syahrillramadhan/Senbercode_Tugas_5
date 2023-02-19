@@ -1,13 +1,13 @@
 # Cypress UI automation test
 
-## How to install cypress.io
+## How to clone project repository
 1. Create folder from terminal
 ```
 cd /your/project/path
 ```
-2. Install cypress
+2. Clone git repositoy
 ```
-npm install cypress --save-dev
+$ git clone https://github.com/syahrillramadhan/Senbercode_Tugas_5
 ```
 
 ## How to run project cypress
