@@ -1,1 +1,1 @@
-# Senbercode_Tugas_5
+# Cypress UI automation test
