@@ -1,0 +1,28 @@
+{
+  "name": "senbercode_tugas_5",
+  "version": "1.0.0",
+  "description": "Cypress automation tugas 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syahrillramadhan/Senbercode_Tugas_5.git"
+  },
+  "keywords": [
+    "Tugas"
+  ],
+  "author": "Syahril Ramadhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syahrillramadhan/Senbercode_Tugas_5/issues"
+  },
+  "homepage": "https://github.com/syahrillramadhan/Senbercode_Tugas_5#readme",
+  "dependencies": {
+    "cypress": "^10.11.0"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
